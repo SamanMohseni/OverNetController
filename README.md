@@ -11,7 +11,7 @@ This hardware connects to a remote server over the wifi connection.
 You should set `WIFI_SSID`, `WIFI_PASSWORD`, and `SERVER_ADDERSS` in `BasicHttpClient.ino` accordingly.
 The hardware can also charge anything over USB if the server commands it.
 
-<img src="https://github.com/SamanMohseni/OverNetController/assets/51726090/b39d7302-fbeb-406f-b99a-bedce851d5fa" width=40% height=40%>
+<img src="https://github.com/SamanMohseni/OverNetController/assets/51726090/ccb8bdd9-60d3-4f10-9e97-ddccafc09146" width=40% height=40%>
 
 ## The server
 The server application is a Java Servlet that accepts HTTP requests from the Android application and pushes them to the hardware controller client.
